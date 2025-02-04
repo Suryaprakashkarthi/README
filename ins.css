@@ -1,0 +1,76 @@
+
+.a2{
+    border-color: rgb(199, 190, 190);
+    border-width: 0.5px;
+    border-style: solid;
+    text-align: center;
+    width: 300px;
+    margin-left: 600px;
+}
+input{
+    height: 30px;
+    width: 250px;
+    background-color: rgba(38, 36, 36, 0);
+    color: white;
+  
+}
+h4{
+   
+    color:#0095f8;
+    padding: 5px;
+    width: 200px;
+    margin-left: 40px;
+   
+}
+h4:hover{
+    color:white;
+    cursor: pointer;
+}
+p{
+    color: white;
+}
+.one{
+    color:white;
+    margin-left: 80px;
+}
+.one:hover{
+    cursor: pointer;
+
+}
+.two{
+    background-color: #0095f6;
+    color:white;
+     padding: 5px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.two:hover{
+    background-color: rgb(54, 54, 255);
+   
+    cursor: pointer;
+}
+.four{
+    color: blue;
+}
+.four:hover{
+    cursor: pointer;
+}
+.a1{
+   
+        border-color: rgb(199, 190, 190);
+        border-width: 0.5px;
+        border-style: solid;
+        text-align: center;
+        width: 300px;
+        margin-left: 600px;
+    }
+.a3{
+    margin-left: 700px;
+}
+.six{
+    margin-left: 630px;
+}
+.six:hover{
+    cursor: pointer;
+}
